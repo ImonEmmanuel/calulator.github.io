@@ -1,2 +1,2 @@
 # calulator.github.io
-Basic Calculator
+Basic Calculator for performing basic  Arithmentic
